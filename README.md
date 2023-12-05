@@ -1,1 +1,1 @@
-Add the correct primitive type for each variable in exercise-1-primitive-types-start.ts, available in the zip below.
+Add types to the functions in exercise-2-function-types-start.ts, available in the zip below.

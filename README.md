@@ -1,1 +1,1 @@
-Extend the existing interface in exercise-3-extend-an-interface-start.ts available in the zip below.
+Create and fix code with generic functions in exercise-1-generic-functions-start.ts available in the zip below.

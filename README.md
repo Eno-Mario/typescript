@@ -1,1 +1,1 @@
-The challenge of this exercise is available downloading the zip below.
+Combine existing interfaces into intersection types in exercise-2-create-intersection-types-start.ts, available in the zip below.

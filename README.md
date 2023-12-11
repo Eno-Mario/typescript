@@ -1,1 +1,1 @@
-Create enums to use instead of strings in exercise-1-create-enums-start.ts, available in the zip.
+The challenge of this exercise is available downloading the zip below.

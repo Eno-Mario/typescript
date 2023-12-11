@@ -1,1 +1,1 @@
-Make the interface generic in exercise-2-make-an-interface-generic-start.ts available in the zip below.
+Add types for the arrays in exercise-1-typing-arrays-start.ts available in the zip below.
